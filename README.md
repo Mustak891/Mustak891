@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mustak-ahamed.netlify.app/](https://mustak-ahamed.netlify.app/)
 
-- 📧 How to reach me **mustakahammed891@gmail.com**
+- 📧 How to reach me **mustakahamed891@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
